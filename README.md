@@ -1,5 +1,14 @@
 # ToDo List Application
 
-Command Line ToDo List application made using C++
+Simple Command Line ToDo List application made using C++
 
-#### Status: *Under development*
+### Functionality :
+- Add a new todo
+- Show remaining todos
+- Delete a todo
+- Complete a todo
+- Show usage (help)
+- Statistics (Show pending/completed ToDos)
+
+
+#### Status: ~~*Under development*~~ *Finished*
