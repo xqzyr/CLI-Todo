@@ -11,4 +11,4 @@ Simple Command Line ToDo List application made using C++
 - Statistics (Show pending/completed ToDos)
 
 
-#### Status: ~~*Under development*~~ *Finished*
+#### Status: ~~*Under development*~~ *Semi-Finished*
