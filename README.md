@@ -10,5 +10,8 @@ Simple Command Line ToDo List application made using C++
 - Show usage (help)
 - Statistics (Show pending/completed ToDos)
 
+### To be added :
+- Listing completed todos
+- Clear completed todos
 
 #### Status: ~~*Under development*~~ *Semi-Finished*
